@@ -1,0 +1,155 @@
+h1 {
+    text-align: center;
+    color: #fff000;
+    letter-spacing: 10px;
+    font-family: Copperplate, "Copperplate Gothic Light";   
+}
+    h2{
+        text-decoration-color:rgb(30, 32, 36) ;
+        text-decoration: underline;
+        color: aqua;
+        letter-spacing: 3px;
+        font-family: Copperplate, "Copperplate Gothic Light";
+    }
+    a{
+        color: gold;
+        text-decoration: none;
+        letter-spacing: 3px;
+        font-family: Copperplate, "Copperplate Gothic Light";
+        transition: 1s;
+    }
+    a:hover{
+        background-color: #353839;
+        color: #ffff00;
+        text-decoration: underline;
+        box-shadow: 3px 3px 10px #46f705;
+    }
+    ul{
+        background-color: rgb(30, 32, 36);
+        color: aqua;
+        font-family: Copperplate, "Copperplate Gothic Light";
+    }
+    img {
+        text-align: right;
+        font-family: Copperplate, "Copperplate Gothic Light";
+    }
+    b{
+        line-height: 2;
+        letter-spacing: 3px;
+        font-family: Copperplate, "Copperplate Gothic Light";
+    }
+     p{
+        color: aliceblue;
+        letter-spacing: 3px;
+        font-family: Copperplate, "Copperplate Gothic Light";
+        color:#F3F3F3;
+    }
+    h3 {
+        color: #46f705;
+        letter-spacing: 3px;
+        font-size: 26px;
+        font-family: Copperplate, "Copperplate Gothic Light";
+        box-shadow: 3px 3px 10px #fff000;
+    }
+    h4 {
+        color: #f70505;
+        letter-spacing: 3px;
+        font-size: 26px;
+        font-family: Copperplate, "Copperplate Gothic Light";
+    }
+    h5 {
+        color: rgb(248, 9, 188) ;
+        letter-spacing: 3px;
+        font-size: 26px;
+        font-family: Copperplate, "Copperplate Gothic Light";
+    }
+    .car{
+        color: rgb(183, 0, 255);
+        box-shadow: 3px 3px 10px #fff000;
+    }
+    table{
+        color: #fff000;
+        font-family: Copperplate, "Copperplate Gothic Light";
+    }
+     caption{
+        color: red;
+    }
+    *{
+        font-family: Copperplate, "Copperplate Gothic Light";
+        letter-spacing: 3px;
+        font-size: 26px;
+    }
+    .a{
+        color: rgb(183, 0, 255);
+        background-color: black;
+        box-shadow: 3px 3px 10px #fff000;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .b{
+        color: #46f705;
+        background-color: black;
+        box-shadow: 3px 3px 10px #fff000;
+        font-family: 'Courier New', Courier, monospace;
+     }
+    .c{
+        color: aqua;
+        background-color: black;
+        box-shadow: 3px 3px 10px #fff000;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .d{
+        color: #fff000;
+        background-color: black;
+        box-shadow: 3px 3px 10px #fff000;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .e{
+        color: #FFA500;
+        background-color: black;
+        box-shadow: 3px 3px 10px #fff000;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .f{
+        color: #FF7A00;
+        background-color: black;
+        box-shadow: 3px 3px 10px #fff000;
+        font-family: 'Courier New', Courier, monospace;
+    }
+    .g{
+        color: #A7F432;
+        background-color: black;
+        box-shadow: 3px 3px 10px #fff000;
+        font-family: 'Courier New', Courier, monospace;
+    }
+  h4:nth-of-type {
+    background-color: #353839;
+    }
+    h1::first-letter{
+        color: #ff6600;
+    }
+    .feedback{
+       background-color: #353839;
+       color: #f70505;
+       box-shadow: 3px 3px 10px #fff000;
+    }
+    img:hover{
+        transition: 1s;
+        border-radius: 50%;
+    }
+    .Ashuu{
+        color: #f70505;
+        text-align: right;
+        text-decoration: double;
+    }
+    .Ashuu:hover{
+        color: #46f705;
+        background-color: #F3F3F3;
+        letter-spacing: 10px;
+        font-family: Copperplate, "Copperplate Gothic Light";
+        text-align: center;
+        transition: 3s;
+    }
+
+
+
+    
